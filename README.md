@@ -33,3 +33,5 @@ git config credential.username "AndreevaMarina20"
 git push --set-upstream origin master
 
 history - что писали
+
+СКАЧАЛИ СТРАПИ npx create-strapi-app sss --quickstart 
